@@ -51,3 +51,8 @@ For example:
 
     ...
    ```
+
+More information:
+
+https://developer.cisco.com/docs/cloud-security/api-reference-reports-api-usage-overview/
+
